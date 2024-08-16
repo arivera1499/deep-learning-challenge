@@ -9,7 +9,7 @@
 
       -The target variable of the model was the "IS_SUCCESSFUL" column and trying to predict wether it was succesfull (1) or unsuccessful (0)
       -The features for the model can be found in the image below.
-        ![image](https://github.com/user-attachments/assets/ac32e805-14f0-4784-a807-88b1d5932093)
+![image](https://github.com/user-attachments/assets/ac32e805-14f0-4784-a807-88b1d5932093)
     
       -The "EIN" and "NAME" column are the variables that should be removed as the do not help in deciding if the organization is successful or not
 
