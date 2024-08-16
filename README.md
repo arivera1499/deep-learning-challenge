@@ -5,11 +5,10 @@
   - For this assignement we were tasked with using a deep learning model to analyze and predict if an organization funded by the alphabet soup foundation would be successfull and use the funding effectively. This model would then be used on future applicants to decide if they were a good candidate for funding.
 
 # Results 
-  - Data Processing
-
-    -The target variable of the model was the "IS_SUCCESSFUL" column and trying to predict wether it was succesfull (1) or unsuccessful (0)
-    -The features for the model can be found in the image below.
-    -The "EIN" and "NAME" column are the variables that should be removed as the do not help in deciding if the organization is successful or not
+-Data Processing
+  -The target variable of the model was the "IS_SUCCESSFUL" column and trying to predict wether it was succesfull (1) or unsuccessful (0)
+  -The features for the model can be found in the image below.
+  -The "EIN" and "NAME" column are the variables that should be removed as the do not help in deciding if the organization is successful or not
 
     
   - Compiling, Training, and Evaluating the Model
