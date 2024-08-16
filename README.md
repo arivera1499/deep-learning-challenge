@@ -1,5 +1,6 @@
 # deep-learning-challenge
-# notes. I dont believe that discussed how to download and save .h5 files from google colab and unfortunately could not get it to work on my end before the deadline. Previous lecture material, in-class assignments, and CGPT were used throughout this project for referencing and debugging. 
+# notes
+  - I dont believe that discussed how to download and save .h5 files from google colab and unfortunately could not get it to work on my end before the deadline. Previous lecture material, in-class assignments, and CGPT were used throughout this project for referencing and debugging. 
 
 # purpose 
   - For this assignement we were tasked with using a deep learning model to analyze and predict if an organization funded by the alphabet soup foundation would be successfull and use the funding effectively. This model would then be used on future applicants to decide if they were a good candidate for funding.
