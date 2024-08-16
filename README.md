@@ -9,7 +9,9 @@
 
       -The target variable of the model was the "IS_SUCCESSFUL" column and trying to predict wether it was succesfull (1) or unsuccessful (0)
       -The features for the model can be found in the image below.
+    
         ![image](https://github.com/user-attachments/assets/ac32e805-14f0-4784-a807-88b1d5932093)
+    
       -The "EIN" and "NAME" column are the variables that should be removed as the do not help in deciding if the organization is successful or not
 
     
@@ -20,7 +22,6 @@
     -Unfortunately I was unable to reach the target performance with each instance of the model only reaching 73% accuracy. During some of the optimization trials i did notice that at some points some of the epochs were
      able to reach up to 74%.
     -Many steps were taken in order to increase the accuracy of the model such as: adding more hidden layers, adding more neurons per node, and even trying out differe activations such as "tanh".
-    
         ![image](https://github.com/user-attachments/assets/9af86d7c-9871-42d5-9ff0-ddfd18b378b3)
 
 # Summary 
